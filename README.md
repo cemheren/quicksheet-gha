@@ -57,7 +57,7 @@ Or add it to your shell profile. The extension picks it up automatically.
 ## Install
 
 ```bash
-ext: github:cemheren/quicksheet-gha
+ext: github:Deskworks/quicksheet-gha
 ```
 
 In a QuickSheet cell. QuickSheet will clone, build, and register the extension automatically.
@@ -77,10 +77,10 @@ In a QuickSheet cell. QuickSheet will clone, build, and register the extension a
 
 ## Related extensions
 
-- [quicksheet-ghpr](https://github.com/cemheren/quicksheet-ghpr) — Pull request dashboard
-- [quicksheet-gitlog](https://github.com/cemheren/quicksheet-gitlog) — Recent git commits
-- [quicksheet-apistatus](https://github.com/cemheren/quicksheet-apistatus) — Service status pages
-- [quicksheet-health](https://github.com/cemheren/quicksheet-health) — HTTP endpoint health
+- [quicksheet-ghpr](https://github.com/Deskworks/quicksheet-ghpr) — Pull request dashboard
+- [quicksheet-gitlog](https://github.com/Deskworks/quicksheet-gitlog) — Recent git commits
+- [quicksheet-apistatus](https://github.com/Deskworks/quicksheet-apistatus) — Service status pages
+- [quicksheet-health](https://github.com/Deskworks/quicksheet-health) — HTTP endpoint health
 
 ---
 
